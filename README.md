@@ -19,7 +19,7 @@ The repo is set up in the following structure:
     - Healthcare 
     - ... 
 - **Research 📁**
-    - 
+    - Market Research
 
 ## Repo Owner 
 
